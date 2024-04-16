@@ -1,0 +1,3 @@
+new file! (복습)
+편집종료 : ESC
+저장은 :wq + ENTER
